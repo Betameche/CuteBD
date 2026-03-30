@@ -45,6 +45,8 @@ set(CORE_SOURCES
     
     # UI module
     src/ui/mainwindow.cpp
+    src/ui/mainwindow_tables.cpp
+    src/ui/mainwindow_pipeline.cpp
 )
 
 add_executable(cutebd
