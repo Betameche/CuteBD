@@ -36,3 +36,4 @@ ui_*.h
 
 # IDE local settings
 .vscode/*
+test/*
